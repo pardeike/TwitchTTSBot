@@ -15,6 +15,10 @@ This twitch bot uses swift-nio to connect to twitch with oauth and a given chann
 ./TwitchTTSBot CHANNELNAME OAUTHTOKEN
 ```
 
+To get a OAUTHTOKEN, go to https://twitchapps.com/tmi/ and make sure you are logged in with the account the bot should use (can be your own accout if you like to).
+
+The CHANNELNAME is just the name of your Twitch channel.
+
 ## Tested On
 - macOS Monterey
 - Xcode 13.4
@@ -24,3 +28,5 @@ This twitch bot uses swift-nio to connect to twitch with oauth and a given chann
 Great as a starting point for your own bot.
 
 Check out [main.swift](https://github.com/pardeike/TwitchTTSBot/blob/main/TwitchTTSBot/main.swift)
+
+
