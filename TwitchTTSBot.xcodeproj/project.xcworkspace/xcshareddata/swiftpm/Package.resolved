@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "igidenticon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/seaburg/IGIdenticon.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "b4ad2b7e31924c5a18e018da795f3caf0b5309e2"
+      }
+    },
+    {
+      "identity" : "swift-nio",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio.git",
+      "state" : {
+        "revision" : "124119f0bb12384cef35aa041d7c3a686108722d",
+        "version" : "2.40.0"
+      }
+    },
+    {
+      "identity" : "swift-nio-irc",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftNIOExtras/swift-nio-irc.git",
+      "state" : {
+        "revision" : "782e6d3bcd892efaedc9c530b2d5c5fbb42a680e",
+        "version" : "0.8.2"
+      }
+    },
+    {
+      "identity" : "swift-nio-irc-client",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/NozeIO/swift-nio-irc-client",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7a0b7d4cde33614b7b0af193cd8ff0f7f305eb77"
+      }
+    },
+    {
+      "identity" : "swift-nio-transport-services",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-nio-transport-services",
+      "state" : {
+        "revision" : "1a4692acb88156e3da1b0c6732a8a38b2a744166",
+        "version" : "1.12.0"
+      }
+    }
+  ],
+  "version" : 2
+}
